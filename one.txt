@@ -17,7 +17,4 @@ Git is free software 6
 Git is free software 7 分支
 
 
-Git stash  bug分支
-
-
-Git 分支 20170831
+Git  is free software 20170904
